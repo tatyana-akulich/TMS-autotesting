@@ -3,4 +3,4 @@
 *.iml
 *.iws
 /out/
-/target/
+target/
